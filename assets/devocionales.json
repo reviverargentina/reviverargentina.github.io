@@ -1,1 +1,14 @@
-[]
+[
+
+ {
+    "id": 1,
+    "title": "1-Revelación",
+    "date": "2026-04-14",
+    "audio": "https://reviverargentina.github.io/assets/audios/1.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesus, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/1_1.png"
+  }
+
+]
