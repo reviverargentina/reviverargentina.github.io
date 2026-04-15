@@ -7,7 +7,7 @@
     "audio": "https://reviverargentina.github.io/assets/audios/1.mpeg",
     "description": "",
     "author": "Pr. Eduardo D. Alvarez",
-    "campaign": "Jesus, 40 días para enamorarte de Él",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/1_2.png"
   },
   {
@@ -17,9 +17,20 @@
     "audio": "https://reviverargentina.github.io/assets/audios/2.mpeg",
     "description": "",
     "author": "Pr. Eduardo D. Alvarez",
-    "campaign": "Jesus, 40 días para enamorarte de Él",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/2.jpg"
-  }
+  },
+   {
+    "id": 2,
+    "title": "3-El que convierte TODO",
+    "date": "2026-04-16",
+    "audio": "https://reviverargentina.github.io/assets/audios/3.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/3.jpg"
+  },
+
 
 
 ]
