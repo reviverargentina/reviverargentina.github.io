@@ -1,6 +1,6 @@
 {
-    "short_name": "MiApp",
-    "name": "Mi Aplicación React",
+    "short_name": "ReviverApp",
+    "name": "Devocionales Reviver Argentina",
     "icons": [
         {
             "src": "https://reviverargentina.github.io/assets/logo192.png",
