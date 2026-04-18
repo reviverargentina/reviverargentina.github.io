@@ -49,6 +49,15 @@
     "author": "Pr. Eduardo D. Alvarez",
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "6-Un hijo",
+    "date": "2026-04-19",
+    "audio": "https://reviverargentina.github.io/assets/audios/6.mp3",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/6.jpg"
   }
-
 ]
