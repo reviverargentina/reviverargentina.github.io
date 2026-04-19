@@ -59,5 +59,18 @@
     "author": "Pr. Eduardo D. Alvarez",
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/6.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "7-Mundo sediento",
+    "date": "2026-04-20",
+    "audio": "https://reviverargentina.github.io/assets/audios/7.mp3",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/7.jpg"
   }
+
+ 
 ]
