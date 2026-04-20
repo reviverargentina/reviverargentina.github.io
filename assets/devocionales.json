@@ -70,7 +70,16 @@
     "author": "Pr. Eduardo D. Alvarez",
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/7.jpg"
+  },
+    {
+    "id": 8,
+    "title": "8-",
+    "date": "2026-04-21",
+    "audio": "https://reviverargentina.github.io/assets/audios/8.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/8.jpg"
   }
-
  
 ]
