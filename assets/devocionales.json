@@ -101,5 +101,16 @@
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/10.jpeg"
   }
+  ,
+    {
+    "id": 11,
+    "title": "11-Supliendo necesidades",
+    "date": "2026-04-24",
+    "audio": "https://reviverargentina.github.io/assets/audios/11.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/11.jpeg"
+  }
  
 ]
