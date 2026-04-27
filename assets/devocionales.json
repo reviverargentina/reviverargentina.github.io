@@ -144,5 +144,16 @@
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/14.jpeg"
   }
+  ,
+    {
+    "id": 15,
+    "title": "15-El que satisface tu alma",
+    "date": "2026-04-28",
+    "audio": "https://reviverargentina.github.io/assets/audios/15.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/15.jpeg"
+  }
  
 ]
