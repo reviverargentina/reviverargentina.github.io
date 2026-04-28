@@ -155,5 +155,17 @@
     "campaign": "Jesús, 40 días para enamorarte de Él",
     "image": "https://reviverargentina.github.io/assets/imagenes/15.jpeg"
   }
+   ,
+    {
+    "id": 16,
+    "title": "16-El peor día de tu vida",
+    "date": "2026-04-29",
+    "audio": "https://reviverargentina.github.io/assets/audios/16.mpeg",
+    "description": "",
+    "author": "Pr. Eduardo D. Alvarez",
+    "campaign": "Jesús, 40 días para enamorarte de Él",
+    "image": "https://reviverargentina.github.io/assets/imagenes/16.jpeg"
+  }
+ 
  
 ]
